@@ -1,0 +1,300 @@
+{
+    "quotes": [
+      {
+        "quote": "Debugging is like chasing a greased pig around a dark room.",
+        "author": "Brian Kernighan"
+      },
+      {
+        "quote": "If you're not failing, you're not innovating enough.",
+        "author": "Elon Musk"
+      },
+      {
+        "quote": "A good programmer is one who always learns from their mistakes. A great programmer is one who learns from other people's mistakes.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only way to write a bug-free program is to write a program that does nothing.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The difference between a programmer and a non-programmer is that a programmer can solve a problem that a non-programmer doesn't even know they have.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Programmers are like ninjas. They sit in the dark and type code that you don't understand.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "I'm not a genius. I'm just curious.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "If you're not embarrassed by the first version of your product, you've launched too late.",
+        "author": "Reid Hoffman"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "The only way to learn is by doing.",
+        "author": "Dale Carnegie"
+      },
+      {
+        "quote": "Programming is like sex. One mistake and you have to support it for the rest of your life.",
+        "author": "Michael Sinz"
+      },
+      {
+        "quote": "The best way to get accurate information on Usenet is to post something wrong and wait for corrections.",
+        "author": "Linus Torvalds"
+      },
+      {
+        "quote": "Computers are like air conditioners; they only work when you open the windows.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "There are two ways to write error-free programs; only the third one works.",
+        "author": "Alan J. Perlis"
+      },
+      {
+        "quote": "The best method for accelerating a computer is the one that boosts it by 9.8 m/s^2.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.",
+        "author": "Oktal"
+      },
+      {
+        "quote": "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.",
+        "author": "Gerald Weinberg"
+      },
+      {
+        "quote": "The best way to get into heaven is to die while working on a Linux system. That guarantee's you a lifetime of debugging.",
+        "author": "Linus Torvalds"
+      },
+      {
+        "quote": "There are two kinds of programmers: those who know they don't know anything, and those who don't know they don't know anything.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The best way to learn about a programming language is to write a program in it.",
+        "author": "Larry Wall"
+      },
+      {
+        "quote": "The only way to write bug-free code is to write code that does nothing.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only way to test software is to run it. The only way to prove that software works is to use it. The only way to know that software is good is to have people love it.",
+        "author": "Donald Knuth"
+      },
+      {
+        "quote": "Debugging is the process of removing software bugs. Software bugs are just undocumented features.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "A programmer is a machine that turns coffee into code.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Code is like humor. When you have to explain it, it's not funny.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The best way to fix a bug is to remove it.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only thing worse than a bug in your code is a bug that disappears when you try to debug it.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only good code is the code that works.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only difference between a programmer and a non-programmer is that a programmer can solve a problem that a non-programmer doesn't even know they have.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Programmers are like ninjas. They sit in the dark and type code that you don't understand.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "If you're not embarrassed by the first version of your product, you've launched too late.",
+        "author": "Reid Hoffman"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "The only way to learn is by doing.",
+        "author": "Dale Carnegie"
+      },
+      {
+        "quote": "Debugging is like chasing a greased pig around a dark room.",
+        "author": "Brian Kernighan"
+      },
+      {
+        "quote": "A good programmer is one who always learns from their mistakes. A great programmer is one who learns from other people's mistakes.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only way to write a bug-free program is to write a program that does nothing.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The difference between a programmer and a non-programmer is that a programmer can solve a problem that a non-programmer doesn't even know they have.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Programmers are like ninjas. They sit in the dark and type code that you don't understand.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "I'm not a genius. I'm just curious.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "If you're not embarrassed by the first version of your product, you've launched too late.",
+        "author": "Reid Hoffman"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "The only way to learn is by doing.",
+        "author": "Dale Carnegie"
+      },
+      {
+        "quote": "Programming is like sex. One mistake and you have to support it for the rest of your life.",
+        "author": "Michael Sinz"
+      },
+      {
+        "quote": "The best way to get accurate information on Usenet is to post something wrong and wait for corrections.",
+        "author": "Linus Torvalds"
+      },
+      {
+        "quote": "Computers are like air conditioners; they only work when you open the windows.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "There are two ways to write error-free programs; only the third one works.",
+        "author": "Alan J. Perlis"
+      },
+      {
+        "quote": "The best method for accelerating a computer is the one that boosts it by 9.8 m/s^2.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.",
+        "author": "Oktal"
+      },
+      {
+        "quote": "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.",
+        "author": "Gerald Weinberg"
+      },
+      {
+        "quote": "The best way to get into heaven is to die while working on a Linux system. That guarantee's you a lifetime of debugging.",
+        "author": "Linus Torvalds"
+      },
+      {
+        "quote": "There are two kinds of programmers: those who know they don't know anything, and those who don't know they don't know anything.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The best way to learn about a programming language is to write a program in it.",
+        "author": "Larry Wall"
+      },
+      {
+        "quote": "The only way to write bug-free code is to write code that does nothing.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only way to test software is to run it. The only way to prove that software works is to use it. The only way to know that software is good is to have people love it.",
+        "author": "Donald Knuth"
+      },
+      {
+        "quote": "Debugging is the process of removing software bugs. Software bugs are just undocumented features.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "A programmer is a machine that turns coffee into code.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Code is like humor. When you have to explain it, it's not funny.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The best way to fix a bug is to remove it.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only thing worse than a bug in your code is a bug that disappears when you try to debug it.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only good code is the code that works.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The only difference between a programmer and a non-programmer is that a programmer can solve a problem that a non-programmer doesn't even know they have.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Programmers are like ninjas. They sit in the dark and type code that you don't understand.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "If you're not embarrassed by the first version of your product, you've launched too late.",
+        "author": "Reid Hoffman"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "The only way to learn is by doing.",
+        "author": "Dale Carnegie"
+      },
+      {
+        "quote": "Programming is like building a house of cards: if you move one card, the whole thing falls down.",
+        "author": "Unknown"
+      }
+    ]
+  }

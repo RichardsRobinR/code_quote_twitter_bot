@@ -1,0 +1,32 @@
+{
+    "completed_quotes": [
+        {
+            "quote": "Debugging is like chasing a greased pig around a dark room.",
+            "author": "Brian Kernighan"
+        },
+        {
+            "quote": "If you're not failing, you're not innovating enough.",
+            "author": "Elon Musk"
+        },
+        {
+            "quote": "A good programmer is one who always learns from their mistakes. A great programmer is one who learns from other people's mistakes.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The only way to write a bug-free program is to write a program that does nothing.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The difference between a programmer and a non-programmer is that a programmer can solve a problem that a non-programmer doesn't even know they have.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Programmers are like ninjas. They sit in the dark and type code that you don't understand.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I'm not a genius. I'm just curious.",
+            "author": "Albert Einstein"
+        }
+    ]
+}
