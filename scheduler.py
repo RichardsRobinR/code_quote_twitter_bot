@@ -14,7 +14,7 @@ class TweetScheduler:
         self.run_scheduler()
     
     def print_good_morning(self,):
-        print("Good morning!")
+        print("Good morning   !")
 
     def create_tweet(self):
         self.text = "{} - {}".format(self.tweet_dict['quote'],self.tweet_dict['author'])
